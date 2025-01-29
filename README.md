@@ -1,5 +1,5 @@
 # Online_Intership_Task_2
-#Java Program for file handling_________
+#Java Program for fetch APi data un json format._________
 
 company : CODTECH IT SOLUTIONS
 
